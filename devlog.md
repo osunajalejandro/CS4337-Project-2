@@ -1,0 +1,2 @@
+May 6 21:48
+Same as last time, I finished reading the project and will now head to rest on it. I will plan about it tomorrow morning hopefully drop that in here. This initial session was purely to setup the repository and read and understand the project. :D
