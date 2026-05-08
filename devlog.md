@@ -21,3 +21,8 @@ I added the example input and output folder and the testing.pl file to the proje
 - continue building the workstation
 
 I will try to follow this since it makes sense to me but also I know there is a high chance I will end up making changes, what I am trying to say is that it is not final but a good structure to start with!
+
+May 7 9:28pm
+Time to start implementing some code! I actually do not have a defined plan for this session, I do not have a concrete goal. I might just do a little bit or finish it all right now we will see! But I will keep writing here for any changes I do for sure (I will probably write about how I got tired in 30 minutes :p)
+
+Im back! Well that went well, I now can extract the employees and workstations from the facts and also check if the workstation is idle or not :D! Tomorrow it will be project finishing day but I feel like doing this really helped me understand the project a bit more so, I feel confident.
